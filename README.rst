@@ -2,7 +2,7 @@
 =================================================
 
 I had some trouble getting my site up, running, and configured, so I decided
-to share the fruits with everyone :)
+to share the fruits with everyone, hope you all will enjoy:)
 
 Apps currently used (outside of contrib):
 
